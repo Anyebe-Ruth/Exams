@@ -1,0 +1,102 @@
+*{
+  
+  padding: 0;
+  margin:  0;
+  background: #000000;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  
+}
+.Header{
+  color: #ffc000;
+ 
+  padding-left: 25px;
+ 
+  
+  
+}
+
+.Text{
+margin: 10px;
+  font-size: 25px;
+  color: #ffc000;
+  
+}
+  
+  .text1{
+    font-size: 25px;
+    color: #a1c9f2;
+    
+  }
+  
+  span {
+    color: #ffc000;
+    
+  }
+  
+  h3{
+    color: #ffc000;
+    margin:  50px;
+    font-size: 25px;
+    
+  }
+  .text3{
+    font-size: 25px;
+    color:  #a1c9f2;
+    padding: 30px;
+  }
+    
+  .h2{
+    color: #ffc000;
+    padding:  45px;
+    
+    font-size: 30px;
+  }
+   .head{
+     color: #a1c9f2;
+    
+    font-size: 25px;
+  }
+   .text5{
+    font-size: 25px;
+    color: #a1c9f2;
+  }
+ 
+ 
+ .head3{
+   
+    color: #ffc000;
+    
+    padding: 25px;
+    font-size: 35px;
+    
+ }
+ .head4{
+   font-size: 25px;
+    color:  #a1c9f2;
+}
+     
+ button{
+   background: #ffc000;
+   color: #3f00ff;
+   float: right;
+   border-radius: 15px;
+   
+ }
+ 
+ .new{
+  
+  font-size: 35px;
+  color: #ffc000;
+ }
+ 
+ .btn{
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+   justify-content: center;
+ }
+ 
+.text6{
+  font-size: 25px;
+    color: #a1c9f2;
+}
